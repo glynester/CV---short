@@ -7,23 +7,17 @@
    <a href="#coding-examples">Coding Examples </a>|
    <a href="#Interests"> Interests </a>| </h4>
 </div>
-I bring enthusiasm, passion and tenacious problem solving skills to the team. I love to learn new things and I am continually looking to improve my skill set.<BR> 
-I am responsible, hard working and a good team player.<BR> 
-I'm looking for an inspiring Developer role (probably full stack but does not have to be) where I can continue to learn new things every day, in a development team creating innovative and helpful applications.<BR> 
-Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. My latest role has been Java oriented.
+Passionate and versatile software developer seeking a role that encourages innovation and continuous growth. Skilled in crafting clean, efficient code and solving complex problems with well-thought-out solutions. I prioritize thorough planning to prevent design flaws, carefully considering the broader impact of every approach. Working in a small software company has given me exposure to all aspects of development, while my previous roles have equipped me with valuable peripheral skills. Reliable, dedicated, and detail-oriented, I thrive on tackling challenges and building impactful solutions - I simply love coding.<br>
+See my  [main CV](https://github.com/glynester/cv) if you need more detail.
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
-I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. 
-I get a huge amount of satisfaction from getting computer programs to function as I intend them to, by writing code.<BR> 
-In the business consultant/analyst roles I had during the latter half of my career, I often acted as a translator between the needs of software users and the development teams. These years of work experience honed my problem solving skills. I can now apply these skills in the role of developer.<BR>   
-Over my career, I have also developed a great eye for what makes software well designed from a user's perspective and what makes for a pleasant user experience. I have now also added strong backend coding and database design to my list of skills.<BR>  
-I always take great pride in my work and am meticulous in my attention to detail.   
+
 
 <h3>Developer Skills Summary - At a glance</h3>
 
 <ul>
-   <li>Languages: main:[Javascript, Ruby, Java], secondary: [PHP, Python]</li>
-   <li>Web Frameworks: [Node, Express, React]</li>
+   <li>Languages: main:[Javascript, Java], secondary: [Ruby, PHP, Python]</li>
+   <li>Web Frameworks: [Node, Express, React, Java Server Faces (JSF), Spring, Hibernate]</li>
    <li>Real-time: [socket.io]</li>
    <li>App Deployment Platforms: [github.io, heroku]</li>
    <li>Version Control: [Git (Command line, github.com, GitHub desktop, Git bash, Sourcetree, Fork)]</li>
@@ -37,21 +31,6 @@ I always take great pride in my work and am meticulous in my attention to detail
 </ul>
 <p>Not all experience has been listed above - see 'Education' below for more details.</p>
    
-<h3>Additional Skills</h3>
-<ul>
-   <li>Learn new processes and software quickly</li>
-   <li>Very strong programming/logical and numerical abilities</li>
-   <li>Full project lifecycle experience</li>
-   <li>Strongly computer literate with an excellent working knowledge of a wide variety of application programs, (strong skills in Excel and MS Access) and Enterprise Information Systems</li>
-   <li>Strong software and user interface design knowledge</li>
-   <li>Strong financial/accounting knowledge</li>
-   <li>Self motivated, conscientious and responsible</li>
-   <li>Strong communicator with excellent written skills</li>
-   <li>Confident and effective in relating to people</li>
-   <li>Organised and methodical</li>
-   <li>Personable and professional in manner and presentation</li>
-</ul>
-
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 
 <b>IPS (Integrated Payment Solutions) - Software Development Department</b> (Nov 2022 - present), UK<br>
