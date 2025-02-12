@@ -8,7 +8,7 @@
    <a href="#Interests"> Interests </a>| </h4>
 </div>
 Passionate and versatile software developer seeking a role that encourages innovation and continuous growth. Skilled in crafting clean, efficient code and solving complex problems with well-thought-out solutions. I prioritize thorough planning to prevent design flaws, carefully considering the broader impact of every approach. Working in a small software company has given me exposure to all aspects of development, while my previous roles have equipped me with valuable peripheral skills. Reliable, dedicated, and detail-oriented, I thrive on tackling challenges and building impactful solutions - I simply love coding.<br>
-See my  [main CV](https://github.com/glynester/cv) if you need more detail.
+See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> if you need more detail.
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
 
