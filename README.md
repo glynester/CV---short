@@ -36,34 +36,35 @@ See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> i
 Developer - Card and Access Control Systems (including printing and encoding of cards), Tills, Restaurant Ordering, Visitor Management, Active Directory, Data Integration (to connect to client MIS Systems), etc.<br>
 IPS has multiple clients with bespoke installations of their products running on Tomcat servers on the client's network. The programming languages used are Java (full stack), and Javascript (React) front end/ Java back end, with SQL Server databases.
 Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
-## Main Projects & Achievements  
 
-### Timetable Apps Development  
+<h3>Main Projects & Achievement</h3>
+
+#### Timetable Apps Development  
 - Built two **Java Spring Boot** apps integrating with **Tribal EBS**.  
 - **Mobile App:** Reads student **NFC access cards** to display timetables and safeguarding details.  
 - **Classroom Display App:** Runs on **Raspberry Pi**, showing room schedules on an interactive screen.  
 
-### Restaurant Ordering System Enhancements  
+#### Restaurant Ordering System Enhancements  
 - Redesigned **SQL tables** for better bill item storage.  
 - Added features like **restaurant tabs** and improved **UI** (**React frontend, Java API backend**).  
 - Integrated changes with the **till system**.  
 
-### Monitoring System for Client Databases  
+#### Monitoring System for Client Databases  
 - Extracts key data via **SQL Server Agent**, emails CSV reports, and summarizes insights on a **dashboard**.  
 - Built using **MS Outlook REST API, JavaScript, and Node.js**.  
 
-### Visitor Management Software Improvements  
+#### Visitor Management Software Improvements  
 - Enhanced **visitor check-in process** and **admin functionality** (**Java full-stack**).  
 
-### Transaction Data Extraction  
+#### Transaction Data Extraction  
 - Automated **cash register transaction exports** for client accounting systems.  
 
-### SQL Server Expertise  
+#### SQL Server Expertise  
 - Extensive work with **databases**, including:  
   - Queries, views, stored procedures, scheduled tasks  
   - Backups, replication, and email notifications  
 
-### Additional Responsibilities  
+#### Additional Responsibilities  
 - **Software deployment** to client sites.  
 - Built **Power BI dashboards** integrating financial and access control data.  
 - Set up **Tomcat servers** and **card printers/encoders**.  
@@ -89,7 +90,6 @@ Multiple positions encompassing the whole project lifecycle within very large as
 <b>1993 to 1999 </b> Accountancy, internal audit and external audit roles.
 
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
-### Education & Certifications  
 
 #### Recent Courses  
 - **Power BI Dashboard** – Altis Consulting (Feb 2024)  
