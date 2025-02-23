@@ -68,7 +68,9 @@ Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br>
 - **Software deployment** to client sites.  
 - Built **Power BI dashboards** integrating financial and access control data.  
 - Set up **Tomcat servers** and **card printers/encoders**.  
-- Maintained company **Git repositories** and provided **software support**.  
+- Maintained company **Git repositories** and provided **software support**.
+- Problem solving **support** issues for different software products on client sites.
+- Compiling (using SQL) and then automating **financial extract files** (based on client spec) for input to client's own accounting system.
 
 <b>Self Employed</b> (May 2015 to Oct 2022)<br>
 Building, developing and maintaining websites for clients.
