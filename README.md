@@ -40,21 +40,24 @@ Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br>
 <h3>Main Projects & Achievement</h3>
 
 #### Timetable Apps Development  
-- Built two **Java Spring Boot** apps integrating with **Tribal EBS**.  
+- Built two **Java Spring Boot** apps from scratch, fully integrating with 2 separate external systems **Tribal EBS** and **Prosolution** (both education based MIS systems)  
 - **Mobile App:** Reads student **NFC access cards** to display timetables and safeguarding details.  
-- **Classroom Display App:** Runs on **Raspberry Pi**, showing room schedules on an interactive screen.  
+- **Classroom Display App:** Runs on **Raspberry Pi**, showing room schedules on an interactive screen.
+- This app has been sold to multiple education clients. 
 
 #### Restaurant Ordering System Enhancements  
 - Redesigned **SQL tables** for better bill item storage.  
 - Added features like **restaurant tabs** and improved **UI** (**React frontend, Java API backend**).  
-- Integrated changes with the **till system**.  
+- Integrated changes with the **till system**.
+- Enhancements made by me have resulted in the company keeping clients that were ready to stop using the product. 
 
 #### Monitoring System for Client Databases  
 - Extracts key data via **SQL Server Agent**, emails CSV reports, and summarizes insights on a **dashboard**.  
 - Built using **MS Outlook REST API, JavaScript, and Node.js**.  
 
 #### Visitor Management Software Improvements  
-- Enhanced **visitor check-in process** and **admin functionality** (**Java full-stack**).  
+- Enhanced **visitor check-in process** and **admin functionality** (**Java full-stack**) and made multiple improvements to the product.
+- Enhancements made by me have resulted in the company keeping clients that were ready to stop using the product.   
 
 #### Transaction Data Extraction  
 - Automated **cash register transaction exports** for client accounting systems.  
@@ -62,10 +65,11 @@ Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br>
 #### SQL Server Expertise  
 - Extensive work with **databases**, including:  
   - Queries, views, stored procedures, scheduled tasks  
-  - Backups, replication, and email notifications  
+  - Backups, replication, and email notifications
+  - Integration with apps built by the company 
 
 #### Additional Responsibilities  
-- **Software deployment** to client sites.  
+- **Software deployment** to client sites including database and making apps available on internal or external URLs. 
 - Built **Power BI dashboards** integrating financial and access control data.  
 - Set up **Tomcat servers** and **card printers/encoders**.  
 - Maintained company **Git repositories** and provided **software support**.
