@@ -6,7 +6,11 @@
    <a href="#Education"> Education </a>| 
    <a href="#Interests"> Interests </a>| </h4>
 </div>
-Passionate and versatile software developer seeking a role that encourages innovation and continuous growth. Skilled in crafting clean, efficient code and solving complex problems with well-thought-out solutions. I prioritize thorough planning to prevent design flaws, carefully considering the broader impact of every approach. Working in a small software company has given me exposure to all aspects of development, while my previous roles have equipped me with valuable peripheral skills. Reliable, dedicated, and detail-oriented, I thrive on tackling challenges and building impactful solutions - I simply love coding.<br>
+Enthusiastic and adaptable software developer seeking a role that values creativity, innovation and ongoing personal growth. I take pride in writing clean, efficient code and tackling complex problems with thoughtful, well-planned solutions. I believe in careful design from the outset, always considering the wider implications of each technical decision. My experience in a small software company has given me end-to-end development exposure, while earlier positions have helped me build strong complementary skills.<br>
+Dependable, hardworking, and conscientious, I am easy to work with and quick to adapt. I bring full stack expertise and a knack for improving web apps with fresh ideas and solid execution.<br>
+Detail-oriented and driven, I thrive on solving challenges and building meaningful software — coding is something I genuinely enjoy.<br>
+Note that I’m open to performing other roles, but my ideal role will involve programming, as I truly enjoy the creative problem-solving it brings.<br><br>
+
 See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> if you need more detail.
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
@@ -24,7 +28,7 @@ See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> i
    <li>API testing: [Postman][Swagger-UI]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS, JQuery]</li>
-   <li>Databases: [SQL Server(SQL Server Management Studio), postgreSQL, MongoDB, mySQL]</li>
+   <li>Databases: [SQL Server(SQL Server Management Studio) - extensive experience, postgreSQL, MongoDB, mySQL]</li>
    <li>API's: Proprietary API's: [In house API's to handle database interactions],  Third Party API's: [Google, Youtube, Outlook, Weatherstack, Wikipedia, Unsplash, etc.]</li>
    <li>Other coding skills: [Regular expressions]</li>   
 </ul>
@@ -40,10 +44,10 @@ Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br>
 <h3>Main Projects & Achievement</h3>
 
 #### Timetable Apps Development  
-- Built two **Java Spring Boot** apps from scratch, fully integrating with 2 separate external systems **Tribal EBS** and **Prosolution** (both education based MIS systems)  
+- Built two **Java Spring Boot** apps from scratch, fully integrating with 2 separate external systems **Tribal EBS** and **Prosolution** (both education based MIS systems) using a SQL Server database.
 - **Mobile App:** Reads student **NFC access cards** to display timetables and safeguarding details.  
 - **Classroom Display App:** Runs on **Raspberry Pi**, showing room schedules on an interactive screen.
-- This app has been sold to multiple education clients. 
+- Both apps were designed and built entirely by me (not the mobile side which is just a shell for the main java app). This app has already been sold to multiple education clients. 
 
 #### Restaurant Ordering System Enhancements  
 - Redesigned **SQL tables** for better bill item storage.  
