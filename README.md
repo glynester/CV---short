@@ -6,10 +6,11 @@
    <a href="#Education"> Education </a>| 
    <a href="#Interests"> Interests </a>| </h4>
 </div>
-Enthusiastic and adaptable software developer seeking a role that values creativity, innovation and ongoing personal growth. I take pride in writing clean, efficient code and tackling complex problems with thoughtful, well-planned solutions. I believe in careful design from the outset, always considering the wider implications of each technical decision. My experience in a small software company has given me end-to-end development exposure, while earlier positions have helped me build strong complementary skills.<br>
+Enthusiastic and adaptable software developer seeking a role that values creativity, innovation and ongoing personal growth. I take pride in writing clean, efficient code and tackling complex problems with thoughtful, well-planned solutions. I believe in careful design from the outset, always considering the wider implications of each technical decision. I have the ability to really think through a problem and to be aware of the implications of a certain approach.
+My experience in a small software company has given me end-to-end development exposure, while earlier positions have helped me build strong complementary skills.<br>
 Dependable, hardworking, and conscientious, I am easy to work with and quick to adapt. I bring full stack expertise and a knack for improving web apps with fresh ideas and solid execution.<br>
-Detail-oriented and driven, I thrive on solving challenges and building meaningful software — coding is something I genuinely enjoy.<br>
-Note that I’m open to performing other roles, but my ideal role will involve programming, as I truly enjoy the creative problem-solving it brings.<br><br>
+Detail-oriented and driven, I thrive on solving challenges and building meaningful software — coding is something I genuinely enjoy.<br><br>
+Note that I am fully open to performing other types of roles that fit in with my experience but my ideal role will involve some element of programming, as I truly enjoy the creative problem solving associated with it.<br><br>
 
 See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> if you need more detail.
 
@@ -28,8 +29,9 @@ See my <a href="https://github.com/glynester/cv" target="_blank"> main CV </a> i
    <li>API testing: [Postman][Swagger-UI]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS, JQuery]</li>
-   <li>Databases: [SQL Server(SQL Server Management Studio) - extensive experience, postgreSQL, MongoDB, mySQL]</li>
+   <li>Databases: [SQL Server(SQL Server Management Studio) - T-SQL coding - extensive experience, postgreSQL, MongoDB, mySQL]</li>
    <li>API's: Proprietary API's: [In house API's to handle database interactions],  Third Party API's: [Google, Youtube, Outlook, Weatherstack, Wikipedia, Unsplash, etc.]</li>
+   <li>Data skills: analysis, cleaning, transformation, upload, etc.</li>
    <li>Other coding skills: [Regular expressions]</li>   
 </ul>
 <p>Not all experience has been listed above - see 'Education' below for more details.</p>
@@ -66,7 +68,7 @@ Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br>
 #### Transaction Data Extraction  
 - Automated **cash register transaction exports** for client accounting systems.  
 
-#### SQL Server Expertise  
+#### SQL Server Expertise (T-SQL)
 - Extensive work with **databases**, including:  
   - Queries, views, stored procedures, scheduled tasks  
   - Backups, replication, and email notifications
